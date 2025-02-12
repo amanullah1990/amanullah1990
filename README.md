@@ -1,7 +1,6 @@
 <h1 align="left">👋 Hi, I'm Amanullah</h1>
 <h3 align="left">Senior DevOps Engineer | Cloud & Automation Expert | 12+ Years in Continuous Delivery and Infrastructure Solutions</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aman-ullah-5a1586241/)
 
 ---
 
